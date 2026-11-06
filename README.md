@@ -38,3 +38,25 @@ Identify Missing Skills
 Resume Insights
 🤖 AI Question Generation
 Generate personalized questions based on:
+
+Resume
+Skills
+Target Job Role
+Experience Level
+Supported Roles:
+
+AI Engineer
+ML Engineer
+Data Scientist
+Data Analyst
+Full Stack Developer
+Backend Developer
+Frontend Developer
+💬 Answer Evaluation
+AI Reviews:
+
+Technical Accuracy
+Communication Clarity
+Confidence Level
+Completeness
+Industry Relevance
