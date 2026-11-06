@@ -130,3 +130,22 @@ Coding Score
 Weak Areas
 Recommended Learning Path
 🏗️ System Architecture
+Resume Upload
+      │
+      ▼
+Resume Parser
+      │
+      ▼
+Skill Extraction
+      │
+      ▼
+Gemini AI Engine
+      │
+ ┌────┼─────┬─────────┬────────┐
+ ▼    ▼     ▼         ▼        ▼
+Tech  HR  Coding  Evaluation Analytics
+      Round
+      │
+      ▼
+Report Generation
+📂 Project Structure
