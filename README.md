@@ -83,3 +83,22 @@ Strengths and weaknesses
 Career goals
 Conflict management
 💻 Coding Interview Round
+
+Generate coding challenges.
+
+Evaluate:
+
+Logic
+Optimization
+Time Complexity
+Space Complexity
+Supported Topics:
+
+Arrays
+Strings
+Hash Maps
+Recursion
+Trees
+Graphs
+Dynamic Programming
+📊 Analytics Dashboard
