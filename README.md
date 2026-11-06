@@ -102,3 +102,14 @@ Trees
 Graphs
 Dynamic Programming
 📊 Analytics Dashboard
+
+Track:
+
+Interview Scores
+Weak Areas
+Skill Progress
+Interview History
+Visualized using interactive charts.
+
+🎯 Skill Gap Detection
+Compare:
