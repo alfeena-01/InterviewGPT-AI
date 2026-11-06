@@ -29,3 +29,11 @@ Performance Analytics
 into a single platform.
 
 ✨ Features
+
+📄 Resume Analysis
+Upload Resume (PDF)
+Extract Resume Content
+Detect Technical Skills
+Identify Missing Skills
+Resume Insights
+🤖 AI Question Generation
