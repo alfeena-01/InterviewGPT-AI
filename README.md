@@ -113,3 +113,20 @@ Visualized using interactive charts.
 
 🎯 Skill Gap Detection
 Compare:
+Resume Skills
+
+VS
+
+Target Role Skills
+
+Get personalized recommendations for missing technologies and concepts.
+
+📑 Interview Report Generator
+Generate downloadable reports containing:
+
+Technical Score
+HR Score
+Coding Score
+Weak Areas
+Recommended Learning Path
+🏗️ System Architecture
