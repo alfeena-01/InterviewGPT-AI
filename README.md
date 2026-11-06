@@ -350,3 +350,10 @@ MIT License
 
 ---
 
+## 👨‍💻 Author
+
+AYSHATH
+
+BCA Student | AI & ML Enthusiast
+
+Built to help students prepare smarter for interviews using AI.
