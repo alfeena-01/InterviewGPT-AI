@@ -74,3 +74,12 @@ Provides:
 ✅ Model Answer
 
 👨‍💼 HR Round
+
+Practice HR questions including:
+
+Tell me about yourself
+Why should we hire you?
+Strengths and weaknesses
+Career goals
+Conflict management
+💻 Coding Interview Round
