@@ -60,3 +60,17 @@ Communication Clarity
 Confidence Level
 Completeness
 Industry Relevance
+
+Provides:
+
+✅ Score
+
+✅ Strengths
+
+✅ Weaknesses
+
+✅ Suggested Improvements
+
+✅ Model Answer
+
+👨‍💼 HR Round
